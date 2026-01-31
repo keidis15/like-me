@@ -1,4 +1,4 @@
-## 📸 Like Me - Red Social (Parte I)
+## 📸 Like Me - Red Social II
 Este proyecto es el desarrollo de la lógica inicial de una red social llamada Like Me. Como desarrollador Full Stack, implementé un servidor que permite la creación y visualización de posts en tiempo real, integrando una base de datos relacional para la persistencia de los datos.
 
 ## 🚀 Tecnologías Utilizadas
